@@ -122,7 +122,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T09:05:38Z",
+            "last_commit": "2026-08-14T05:38:49Z",
             "owner": "threshold-network",
             "repo": "tbtc-v2",
             "stars": 91
@@ -175,7 +175,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T09:38:21Z",
+            "last_commit": "2026-08-14T09:10:47Z",
             "owner": "ethereum-optimism",
             "repo": "optimism",
             "stars": 6462
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:47:17.334Z",
+    "last_updated": "2026-08-14T09:44:04.336Z",
     "original_repository": "ong/awesome-decentralized-finance",
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
     "enhanced_repository": "enhansome/enhansome-decentralized-finance",
