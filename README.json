@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T06:50:15Z",
+            "last_commit": "2026-08-15T23:08:40Z",
             "owner": "ethereum-optimism",
             "repo": "optimism",
-            "stars": 6462
+            "stars": 6463
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:02:47.539Z",
+    "last_updated": "2026-08-16T09:03:28.783Z",
     "original_repository": "ong/awesome-decentralized-finance",
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
     "enhanced_repository": "enhansome/enhansome-decentralized-finance",
