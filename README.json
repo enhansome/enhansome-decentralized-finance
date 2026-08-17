@@ -29,7 +29,7 @@
             "last_commit": "2026-08-12T20:25:11Z",
             "owner": "circlefin",
             "repo": "stablecoin-evm",
-            "stars": 793
+            "stars": 794
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T23:08:40Z",
+            "last_commit": "2026-08-17T05:14:11Z",
             "owner": "ethereum-optimism",
             "repo": "optimism",
-            "stars": 6463
+            "stars": 6462
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:03:28.783Z",
+    "last_updated": "2026-08-17T09:23:58.606Z",
     "original_repository": "ong/awesome-decentralized-finance",
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
     "enhanced_repository": "enhansome/enhansome-decentralized-finance",
