@@ -29,7 +29,7 @@
             "last_commit": "2026-08-12T20:25:11Z",
             "owner": "circlefin",
             "repo": "stablecoin-evm",
-            "stars": 794
+            "stars": 793
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2025-11-26T22:27:01Z",
             "owner": "liquity",
             "repo": "dev",
-            "stars": 358
+            "stars": 357
           }
         },
         {
@@ -122,7 +122,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:50:02Z",
+            "last_commit": "2026-08-17T10:09:41Z",
             "owner": "threshold-network",
             "repo": "tbtc-v2",
             "stars": 91
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T05:14:11Z",
+            "last_commit": "2026-08-18T08:53:38Z",
             "owner": "ethereum-optimism",
             "repo": "optimism",
-            "stars": 6462
+            "stars": 6463
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:23:58.606Z",
+    "last_updated": "2026-08-18T09:15:31.963Z",
     "original_repository": "ong/awesome-decentralized-finance",
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
     "enhanced_repository": "enhansome/enhansome-decentralized-finance",
