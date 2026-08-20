@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-12T20:25:11Z",
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 793
+                "stars": 794
               }
             },
             {
@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 373762612,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:09:41Z",
+                "last_commit": "2026-08-19T16:52:40Z",
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91
@@ -146,10 +146,10 @@
                 "archived": false,
                 "id": 238797860,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:21:04Z",
+                "last_commit": "2026-08-20T07:04:30Z",
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6463
+                "stars": 6465
               }
             },
             {
@@ -177,7 +177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:20.313Z",
+    "last_updated": "2026-08-20T09:17:56.120Z",
     "original_repository": "ong/awesome-decentralized-finance",
     "original_repository_id": 153064547,
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
