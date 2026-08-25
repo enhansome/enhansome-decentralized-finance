@@ -195,7 +195,7 @@
                 "archived": false,
                 "id": 238797860,
                 "language": "Go",
-                "last_commit": "2026-08-23T23:50:27Z",
+                "last_commit": "2026-08-24T23:53:59Z",
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6464
@@ -232,10 +232,10 @@
                 "archived": false,
                 "id": 601974648,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:06:23Z",
+                "last_commit": "2026-08-24T18:16:53Z",
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3233
+                "stars": 3232
               }
             }
           ],
@@ -281,7 +281,7 @@
                 "archived": false,
                 "id": 356248265,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:16:45Z",
+                "last_commit": "2026-08-25T03:48:29Z",
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1884
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:57.189Z",
+    "last_updated": "2026-08-25T06:04:21.051Z",
     "original_repository": "ong/awesome-decentralized-finance",
     "original_repository_id": 153064547,
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
