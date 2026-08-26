@@ -66,7 +66,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Crypto-Collateralized
 
-* [LUSD](https://www.liquity.org) ([source code](https://github.com/liquity/dev) ⭐ 357 | 🐛 57 | 🌐 JavaScript | 📅 2025-11-26, [docs](https://docs.liquity.org/)) - 0% interest, ETH-only collateral, immutable protocol
+* [LUSD](https://www.liquity.org) ([source code](https://github.com/liquity/dev) ⭐ 358 | 🐛 57 | 🌐 JavaScript | 📅 2025-11-26, [docs](https://docs.liquity.org/)) - 0% interest, ETH-only collateral, immutable protocol
 * [GHO](https://gho.aave.com) ([source code](https://github.com/aave/gho-core) ⚠️ Archived, [docs](https://docs.gho.xyz/)) - Minted by borrowing on Aave
 * [DAI/USDS](https://makerdao.com) ([source code](https://github.com/makerdao), [docs](https://docs.makerdao.com/)) - $5B+ supply, overcollateralized by crypto (MakerDAO rebranded to Sky)
 * [USDe](https://ethena.fi) ([docs](https://ethena-labs.gitbook.io/ethena-labs)) - Synthetic dollar using delta-neutral positions on perpetual futures
@@ -133,7 +133,7 @@ Auto-compound and optimize yields across multiple protocols.
 
 Use staked ETH to secure additional networks beyond Ethereum (earn extra yield but with added slashing risk).
 
-* [EigenLayer](https://eigenlayer.xyz) ([source code](https://github.com/Layr-Labs/eigenlayer-contracts) ⭐ 718 | 🐛 43 | 🌐 Solidity | 📅 2026-07-16, [docs](https://docs.eigenlayer.xyz/)) - $14.3B+ TVL, pioneered restaking concept. Secures "Actively Validated Services" (AVSs)
+* [EigenLayer](https://eigenlayer.xyz) ([source code](https://github.com/Layr-Labs/eigenlayer-contracts) ⭐ 719 | 🐛 43 | 🌐 Solidity | 📅 2026-08-26, [docs](https://docs.eigenlayer.xyz/)) - $14.3B+ TVL, pioneered restaking concept. Secures "Actively Validated Services" (AVSs)
 * [Symbiotic](https://symbiotic.fi) ([docs](https://docs.symbiotic.fi/)) - Flexible restaking with custom slashing conditions
 * [Karak](https://karak.network) ([docs](https://docs.karak.network/)) - Multi-asset restaking (not just ETH)
 * [Puffer Finance](https://puffer.fi) ([source code](https://github.com/PufferFinance), [docs](https://docs.puffer.fi/)) - Liquid restaking with anti-slashing tech
@@ -173,13 +173,13 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,465 | 🐛 855 | 🌐 Go | 📅 2026-08-24, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,465 | 🐛 855 | 🌐 Go | 📅 2026-08-26, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
 ### ZK Rollups
 
-* [zkSync Era](https://zksync.io) ([source code](https://github.com/matter-labs/zksync-era) ⭐ 3,232 | 🐛 147 | 🌐 Rust | 📅 2026-08-25, [docs](https://docs.zksync.io/)) - Native account abstraction, low fees
+* [zkSync Era](https://zksync.io) ([source code](https://github.com/matter-labs/zksync-era) ⭐ 3,232 | 🐛 147 | 🌐 Rust | 📅 2026-08-26, [docs](https://docs.zksync.io/)) - Native account abstraction, low fees
 * [Starknet](https://starknet.io) ([source code](https://github.com/starkware-libs), [docs](https://docs.starknet.io/)) - Uses STARK proofs, Cairo programming language
 * [Polygon zkEVM](https://polygon.technology/polygon-zkevm) ([source code](https://github.com/0xPolygonHermez), [docs](https://docs.polygon.technology/zkEVM/)) - EVM-equivalent ZK rollup
 * [Scroll](https://scroll.io) ([source code](https://github.com/scroll-tech), [docs](https://docs.scroll.io/)) - Bytecode-compatible zkEVM
@@ -212,7 +212,7 @@ On-chain fund management platforms.
 
 ### Wallets
 
-* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,884 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-25) - Desktop wallet with better multi-chain UX
+* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,886 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-26) - Desktop wallet with better multi-chain UX
 * [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 * [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
 * [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
