@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 373762612,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:27:46Z",
+                "last_commit": "2026-08-27T13:34:13Z",
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91
@@ -195,10 +195,10 @@
                 "archived": false,
                 "id": 238797860,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:08:30Z",
+                "last_commit": "2026-08-27T19:03:02Z",
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6465
+                "stars": 6466
               }
             },
             {
@@ -281,7 +281,7 @@
                 "archived": false,
                 "id": 356248265,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:30:43Z",
+                "last_commit": "2026-08-27T13:20:28Z",
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1886
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:45.201Z",
+    "last_updated": "2026-08-27T19:16:01.325Z",
     "original_repository_info": {
       "archived": false,
       "id": 153064547,
