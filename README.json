@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-12T20:25:11Z",
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 795
+                "stars": 796
               }
             },
             {
@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 373762612,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T13:00:14Z",
+                "last_commit": "2026-08-27T11:27:46Z",
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91
@@ -170,7 +170,7 @@
                 "last_commit": "2023-07-23T15:12:14Z",
                 "owner": "AugurProject",
                 "repo": "augur",
-                "stars": 505
+                "stars": 506
               }
             }
           ],
@@ -195,7 +195,7 @@
                 "archived": false,
                 "id": 238797860,
                 "language": "Go",
-                "last_commit": "2026-08-26T04:16:35Z",
+                "last_commit": "2026-08-27T11:08:30Z",
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6465
@@ -232,7 +232,7 @@
                 "archived": false,
                 "id": 601974648,
                 "language": "Rust",
-                "last_commit": "2026-08-26T09:18:53Z",
+                "last_commit": "2026-08-26T20:02:17Z",
                 "owner": "matter-labs",
                 "repo": "zksync-era",
                 "stars": 3232
@@ -281,7 +281,7 @@
                 "archived": false,
                 "id": 356248265,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T09:21:19Z",
+                "last_commit": "2026-08-27T09:30:43Z",
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1886
@@ -297,9 +297,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:25:01.789Z",
-    "original_repository": "ong/awesome-decentralized-finance",
-    "original_repository_id": 153064547,
+    "last_updated": "2026-08-27T11:32:45.201Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 153064547,
+      "language": null,
+      "last_commit": "2026-01-14T20:11:22Z",
+      "owner": "ong",
+      "repo": "awesome-decentralized-finance",
+      "stars": 1659
+    },
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
     "enhanced_repository": "enhansome/enhansome-decentralized-finance",
     "enhanced_repository_description": null,
