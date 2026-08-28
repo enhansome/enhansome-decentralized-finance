@@ -18,7 +18,8 @@
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
                 "stars": 796
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "paxosglobal",
                 "repo": "usdp-contracts",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "gemini",
                 "repo": "dollar",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "liquity",
                 "repo": "dev",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "aave",
                 "repo": "gho-core",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "WrappedBTC",
                 "repo": "bitcoin-token-smart-contracts",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             },
             {
               "node_type": "item",
@@ -118,11 +124,12 @@
                 "archived": false,
                 "id": 373762612,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:34:13Z",
+                "last_commit": "2026-08-28T19:10:40Z",
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             }
           ],
           "description": null,
@@ -148,7 +155,8 @@
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
             "stars": 719
-          }
+          },
+          "first_seen": "2026-08-28T20:25:20.325Z"
         }
       ],
       "title": "Restaking Protocols"
@@ -171,7 +179,8 @@
                 "owner": "AugurProject",
                 "repo": "augur",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             }
           ],
           "description": null,
@@ -195,11 +204,12 @@
                 "archived": false,
                 "id": 238797860,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:03:02Z",
+                "last_commit": "2026-08-28T20:22:56Z",
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6466
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             },
             {
               "node_type": "item",
@@ -214,7 +224,8 @@
                 "owner": "OffchainLabs",
                 "repo": "arbitrum",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             }
           ],
           "description": null,
@@ -235,8 +246,9 @@
                 "last_commit": "2026-08-26T20:02:17Z",
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3232
-              }
+                "stars": 3233
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             }
           ],
           "description": null,
@@ -262,7 +274,8 @@
             "owner": "SetProtocol",
             "repo": "set-protocol-v2",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T20:25:20.325Z"
         }
       ],
       "title": "Index Protocols"
@@ -281,11 +294,12 @@
                 "archived": false,
                 "id": 356248265,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:20:28Z",
+                "last_commit": "2026-08-28T09:36:52Z",
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1886
-              }
+                "stars": 1888
+              },
+              "first_seen": "2026-08-28T20:25:20.325Z"
             }
           ],
           "description": null,
@@ -297,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:01.325Z",
+    "last_updated": "2026-08-28T20:25:20.325Z",
     "original_repository_info": {
       "archived": false,
       "id": 153064547,
