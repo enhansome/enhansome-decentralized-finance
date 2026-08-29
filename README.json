@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains",
+                "homepage": null,
                 "id": 120320310,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T20:25:11Z",
+                "open_issues": 127,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 796
+                "stars": 796,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solidity smart contracts for the Paxos Standard ERC20 stablecoin USDP",
+                "homepage": null,
                 "id": 147877103,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-06T16:14:37Z",
+                "open_issues": 2,
                 "owner": "paxosglobal",
                 "repo": "usdp-contracts",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             },
@@ -44,12 +54,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gemini dollar contract source code",
+                "homepage": "https://gemini.com/dollar",
                 "id": 138213004,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2023-11-30T14:53:54Z",
+                "open_issues": 0,
                 "owner": "gemini",
                 "repo": "dollar",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "erc20",
+                  "ethereum",
+                  "gemini",
+                  "stablecoin"
+                ]
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             }
@@ -67,12 +87,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Liquity v1 monorepo containing the contracts, SDK and Dev UI frontend.",
+                "homepage": null,
                 "id": 225315321,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-26T22:27:01Z",
+                "open_issues": 57,
                 "owner": "liquity",
                 "repo": "dev",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             },
@@ -83,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 483380314,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2025-09-23T11:45:42Z",
+                "open_issues": 8,
                 "owner": "aave",
                 "repo": "gho-core",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             }
@@ -106,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 157179317,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-25T16:24:43Z",
+                "open_issues": 46,
                 "owner": "WrappedBTC",
                 "repo": "bitcoin-token-smart-contracts",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             },
@@ -122,12 +157,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trust-minimized tokenized Bitcoin everywhere",
+                "homepage": "https://threshold.network",
                 "id": 373762612,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:10:40Z",
+                "open_issues": 68,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "bitcoin",
+                  "cryptocurrency",
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             }
@@ -149,12 +193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contracts of EigenLayer",
+            "homepage": null,
             "id": 620004347,
             "language": "Solidity",
-            "last_commit": "2026-08-26T01:42:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:19:00Z",
+            "open_issues": 43,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
-            "stars": 719
+            "stars": 719,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:20.325Z"
         }
@@ -173,12 +222,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Augur v2 - Prediction Market Protocol and Client",
+                "homepage": null,
                 "id": 142967010,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-23T15:12:14Z",
+                "open_issues": 178,
                 "owner": "AugurProject",
                 "repo": "augur",
-                "stars": 506
+                "stars": 506,
+                "topics": [
+                  "dapp",
+                  "ethereum",
+                  "ethereum-contract",
+                  "ethereum-dapp",
+                  "nodejs",
+                  "react",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             }
@@ -202,12 +264,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimism is Ethereum, scaled.",
+                "homepage": "https://optimism.io",
                 "id": 238797860,
                 "language": "Go",
-                "last_commit": "2026-08-28T20:22:56Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:49:15Z",
+                "open_issues": 877,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6466
+                "stars": 6467,
+                "topics": [
+                  "ethereum",
+                  "l2-scaling",
+                  "optimism",
+                  "ovm",
+                  "rollup"
+                ]
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             },
@@ -218,12 +291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 641474254,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-02T11:28:14Z",
+                "open_issues": 0,
                 "owner": "OffchainLabs",
                 "repo": "arbitrum",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             }
@@ -241,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zkSync era",
+                "homepage": null,
                 "id": 601974648,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T20:02:17Z",
+                "open_issues": 147,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3233
+                "stars": 3233,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             }
@@ -268,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set Protocol V2",
+            "homepage": null,
             "id": 322492522,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-07-26T15:14:39Z",
+            "open_issues": 32,
             "owner": "SetProtocol",
             "repo": "set-protocol-v2",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:20.325Z"
         }
@@ -292,12 +380,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The game-changing wallet for Ethereum and all EVM chains",
+                "homepage": "https://rabby.io",
                 "id": 356248265,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T09:36:52Z",
+                "open_issues": 146,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1888
+                "stars": 1888,
+                "topics": [
+                  "blockchain",
+                  "chrome-extension",
+                  "dapp",
+                  "defi",
+                  "ethereum",
+                  "ethereum-wallet"
+                ]
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
             }
@@ -311,15 +411,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:25:20.325Z",
+    "last_updated": "2026-08-29T04:28:38.611Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome decentralized finance projects",
+      "homepage": null,
       "id": 153064547,
       "language": null,
+      "license": null,
       "last_commit": "2026-01-14T20:11:22Z",
+      "open_issues": 79,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1659
+      "stars": 1659,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "decentralized",
+        "decentralized-finance",
+        "defi",
+        "ethereum",
+        "open-finance"
+      ]
     },
     "original_repository_sha": "352282fd254a5b319f1bd1d586d5c88a3e6207d6",
     "enhanced_repository": "enhansome/enhansome-decentralized-finance",
