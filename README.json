@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 796,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:49:15Z",
+                "last_commit": "2026-08-29T06:02:52Z",
                 "open_issues": 877,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6467,
+                "stars": 6468,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:38.611Z",
+    "last_updated": "2026-08-29T14:00:51.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -420,7 +420,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-01-14T20:11:22Z",
-      "open_issues": 79,
+      "open_issues": 80,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
       "stars": 1659,
