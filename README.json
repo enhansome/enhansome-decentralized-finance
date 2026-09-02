@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 797,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -162,7 +162,7 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T13:38:40Z",
+                "last_commit": "2026-09-02T12:56:13Z",
                 "open_issues": 54,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-01T13:31:58Z",
-                "open_issues": 882,
+                "last_commit": "2026-09-02T10:50:05Z",
+                "open_issues": 859,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6468,
+                "stars": 6469,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -385,8 +385,8 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T12:14:30Z",
-                "open_issues": 149,
+                "last_commit": "2026-09-02T10:13:38Z",
+                "open_issues": 156,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1889,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:41:55.393Z",
+    "last_updated": "2026-09-02T12:58:50.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 80,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1659,
+      "stars": 1660,
       "topics": [
         "awesome",
         "awesome-list",
