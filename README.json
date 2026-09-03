@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 796,
+                "stars": 795,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -145,7 +145,7 @@
                 "open_issues": 46,
                 "owner": "WrappedBTC",
                 "repo": "bitcoin-token-smart-contracts",
-                "stars": 151,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -162,8 +162,8 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T12:56:13Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-03T11:58:59Z",
+                "open_issues": 52,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91,
@@ -199,7 +199,7 @@
             "language": "Solidity",
             "license": "NOASSERTION",
             "last_commit": "2026-08-30T00:16:51Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
             "stars": 718,
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:50:05Z",
-                "open_issues": 859,
+                "last_commit": "2026-09-03T12:39:07Z",
+                "open_issues": 857,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6469,
@@ -328,7 +328,7 @@
                 "open_issues": 147,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3231,
+                "stars": 3232,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T10:13:38Z",
-                "open_issues": 156,
+                "last_commit": "2026-09-03T12:31:23Z",
+                "open_issues": 158,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1889,
+                "stars": 1890,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:58:50.880Z",
+    "last_updated": "2026-09-03T13:00:47.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
