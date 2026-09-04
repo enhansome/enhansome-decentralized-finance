@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 795,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -162,8 +162,8 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T11:58:59Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-04T12:51:26Z",
+                "open_issues": 50,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91,
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
-            "stars": 718,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:20.325Z"
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:39:07Z",
-                "open_issues": 857,
+                "last_commit": "2026-09-04T12:35:54Z",
+                "open_issues": 870,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6469,
@@ -385,8 +385,8 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T12:31:23Z",
-                "open_issues": 158,
+                "last_commit": "2026-09-04T10:01:31Z",
+                "open_issues": 145,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1890,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:00:47.752Z",
+    "last_updated": "2026-09-04T12:56:07.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 80,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1660,
+      "stars": 1661,
       "topics": [
         "awesome",
         "awesome-list",
