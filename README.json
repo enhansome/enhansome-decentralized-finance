@@ -162,8 +162,8 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T12:51:26Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-04T14:28:56Z",
+                "open_issues": 51,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91,
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T12:35:54Z",
-                "open_issues": 870,
+                "last_commit": "2026-09-05T04:36:40Z",
+                "open_issues": 872,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6469,
+                "stars": 6470,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -324,7 +324,7 @@
                 "id": 601974648,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T03:45:58Z",
+                "last_commit": "2026-09-04T17:14:36Z",
                 "open_issues": 147,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:56:07.369Z",
+    "last_updated": "2026-09-05T12:05:57.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
