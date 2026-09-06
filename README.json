@@ -96,7 +96,7 @@
                 "open_issues": 57,
                 "owner": "liquity",
                 "repo": "dev",
-                "stars": 358,
+                "stars": 359,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T04:36:40Z",
+                "last_commit": "2026-09-06T11:10:22Z",
                 "open_issues": 872,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6470,
+                "stars": 6468,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -389,7 +389,7 @@
                 "open_issues": 145,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1890,
+                "stars": 1891,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:05:57.650Z",
+    "last_updated": "2026-09-06T12:20:08.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 80,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1661,
+      "stars": 1662,
       "topics": [
         "awesome",
         "awesome-list",

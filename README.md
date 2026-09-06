@@ -66,7 +66,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Crypto-Collateralized
 
-* [LUSD](https://www.liquity.org) ([source code](https://github.com/liquity/dev) ⭐ 358 | 🐛 57 | 🌐 JavaScript | 📅 2025-11-26, [docs](https://docs.liquity.org/)) - 0% interest, ETH-only collateral, immutable protocol
+* [LUSD](https://www.liquity.org) ([source code](https://github.com/liquity/dev) ⭐ 359 | 🐛 57 | 🌐 JavaScript | 📅 2025-11-26, [docs](https://docs.liquity.org/)) - 0% interest, ETH-only collateral, immutable protocol
 * [GHO](https://gho.aave.com) ([source code](https://github.com/aave/gho-core) ⚠️ Archived, [docs](https://docs.gho.xyz/)) - Minted by borrowing on Aave
 * [DAI/USDS](https://makerdao.com) ([source code](https://github.com/makerdao), [docs](https://docs.makerdao.com/)) - $5B+ supply, overcollateralized by crypto (MakerDAO rebranded to Sky)
 * [USDe](https://ethena.fi) ([docs](https://ethena-labs.gitbook.io/ethena-labs)) - Synthetic dollar using delta-neutral positions on perpetual futures
@@ -173,7 +173,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,470 | 🐛 872 | 🌐 Go | 📅 2026-09-05, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,468 | 🐛 872 | 🌐 Go | 📅 2026-09-06, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
@@ -212,7 +212,7 @@ On-chain fund management platforms.
 
 ### Wallets
 
-* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,890 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-04) - Desktop wallet with better multi-chain UX
+* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,891 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-04) - Desktop wallet with better multi-chain UX
 * [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 * [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
 * [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
