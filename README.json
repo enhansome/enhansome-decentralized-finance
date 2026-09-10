@@ -162,8 +162,8 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T13:07:57Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-10T11:17:51Z",
+                "open_issues": 67,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 91,
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-09T12:20:06Z",
-                "open_issues": 886,
+                "last_commit": "2026-09-10T08:30:44Z",
+                "open_issues": 895,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6469,
@@ -328,7 +328,7 @@
                 "open_issues": 146,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3232,
+                "stars": 3233,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -385,8 +385,8 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T10:11:58Z",
-                "open_issues": 153,
+                "last_commit": "2026-09-10T12:09:01Z",
+                "open_issues": 156,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1891,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:09:37.830Z",
+    "last_updated": "2026-09-10T13:08:04.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
