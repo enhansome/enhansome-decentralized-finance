@@ -59,7 +59,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Fiat-Backed (Centralized)
 
-* [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm) ⭐ 796 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-12, [docs](https://developers.circle.com/stablecoins/docs)) - $59B+ market cap, issued by Circle
+* [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm) ⭐ 797 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-12, [docs](https://developers.circle.com/stablecoins/docs)) - $59B+ market cap, issued by Circle
 * [Paxos Dollar (USDP)](https://paxos.com/usdp/) ([source code](https://github.com/paxosglobal/usdp-contracts) ⭐ 176 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-06) - Regulated by NYDFS
 * [Gemini Dollar (GUSD)](https://gemini.com/dollar) ([source code](https://github.com/gemini/dollar) ⭐ 106 | 🐛 0 | 🌐 Solidity | 📅 2023-11-30) - Issued by Gemini exchange
 * [Tether (USDT)](https://tether.to) ([docs](https://tether.to/en/transparency/)) - $144B+ market cap, most liquid stablecoin
@@ -76,7 +76,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ### Wrapped BTC
 
 * [WBTC](https://wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) ⭐ 150 | 🐛 46 | 🌐 JavaScript | 📅 2024-01-25) - Centralized custody, largest supply
-* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 91 | 🐛 67 | 🌐 TypeScript | 📅 2026-09-10) - Decentralized Bitcoin bridge
+* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-11) - Decentralized Bitcoin bridge
 
 ### Historical Note
 
@@ -173,7 +173,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,469 | 🐛 895 | 🌐 Go | 📅 2026-09-10, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,470 | 🐛 871 | 🌐 Go | 📅 2026-09-11, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
@@ -212,7 +212,7 @@ On-chain fund management platforms.
 
 ### Wallets
 
-* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,891 | 🐛 156 | 🌐 TypeScript | 📅 2026-09-10) - Desktop wallet with better multi-chain UX
+* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,891 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-11) - Desktop wallet with better multi-chain UX
 * [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 * [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
 * [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
@@ -320,7 +320,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Other Awesome Lists
 
-If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 502 | 🐛 117 | 📅 2026-04-14.
+If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 504 | 🐛 117 | 📅 2026-04-14.
 
 ## License
 
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

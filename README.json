@@ -21,7 +21,7 @@
                 "open_issues": 128,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 796,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -162,11 +162,11 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T11:17:51Z",
-                "open_issues": 67,
+                "last_commit": "2026-09-11T11:38:11Z",
+                "open_issues": 70,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
-                "stars": 91,
+                "stars": 90,
                 "topics": [
                   "bitcoin",
                   "cryptocurrency",
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-10T08:30:44Z",
-                "open_issues": 895,
+                "last_commit": "2026-09-11T12:08:32Z",
+                "open_issues": 871,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6469,
+                "stars": 6470,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -385,8 +385,8 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T12:09:01Z",
-                "open_issues": 156,
+                "last_commit": "2026-09-11T10:45:52Z",
+                "open_issues": 138,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1891,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:08:04.147Z",
+    "last_updated": "2026-09-11T13:01:17.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
