@@ -76,7 +76,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ### Wrapped BTC
 
 * [WBTC](https://wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) ⭐ 150 | 🐛 46 | 🌐 JavaScript | 📅 2024-01-25) - Centralized custody, largest supply
-* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-11) - Decentralized Bitcoin bridge
+* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-12) - Decentralized Bitcoin bridge
 
 ### Historical Note
 
@@ -173,13 +173,13 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,470 | 🐛 871 | 🌐 Go | 📅 2026-09-11, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,470 | 🐛 858 | 🌐 Go | 📅 2026-09-12, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
 ### ZK Rollups
 
-* [zkSync Era](https://zksync.io) ([source code](https://github.com/matter-labs/zksync-era) ⭐ 3,233 | 🐛 146 | 🌐 Rust | 📅 2026-09-04, [docs](https://docs.zksync.io/)) - Native account abstraction, low fees
+* [zkSync Era](https://zksync.io) ([source code](https://github.com/matter-labs/zksync-era) ⭐ 3,233 | 🐛 147 | 🌐 Rust | 📅 2026-09-04, [docs](https://docs.zksync.io/)) - Native account abstraction, low fees
 * [Starknet](https://starknet.io) ([source code](https://github.com/starkware-libs), [docs](https://docs.starknet.io/)) - Uses STARK proofs, Cairo programming language
 * [Polygon zkEVM](https://polygon.technology/polygon-zkevm) ([source code](https://github.com/0xPolygonHermez), [docs](https://docs.polygon.technology/zkEVM/)) - EVM-equivalent ZK rollup
 * [Scroll](https://scroll.io) ([source code](https://github.com/scroll-tech), [docs](https://docs.scroll.io/)) - Bytecode-compatible zkEVM
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

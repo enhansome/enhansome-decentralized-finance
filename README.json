@@ -162,8 +162,8 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T11:38:11Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-12T12:07:46Z",
+                "open_issues": 62,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 90,
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-11T12:08:32Z",
-                "open_issues": 871,
+                "last_commit": "2026-09-12T04:58:30Z",
+                "open_issues": 858,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6470,
@@ -325,7 +325,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T17:14:36Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
                 "stars": 3233,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:01:17.718Z",
+    "last_updated": "2026-09-12T12:22:18.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 80,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1663,
+      "stars": 1664,
       "topics": [
         "awesome",
         "awesome-list",
