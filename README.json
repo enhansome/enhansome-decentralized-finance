@@ -21,7 +21,7 @@
                 "open_issues": 128,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 798,
+                "stars": 799,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-14T13:52:37Z",
-                "open_issues": 844,
+                "last_commit": "2026-09-15T13:18:19Z",
+                "open_issues": 845,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6469,
@@ -385,8 +385,8 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T10:18:04Z",
-                "open_issues": 138,
+                "last_commit": "2026-09-15T11:06:52Z",
+                "open_issues": 142,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1890,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:15:33.717Z",
+    "last_updated": "2026-09-15T13:52:38.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -420,7 +420,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-01-14T20:11:22Z",
-      "open_issues": 81,
+      "open_issues": 82,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
       "stars": 1665,
