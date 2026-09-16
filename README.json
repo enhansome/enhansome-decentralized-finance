@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-15T13:18:19Z",
-                "open_issues": 845,
+                "last_commit": "2026-09-16T12:29:33Z",
+                "open_issues": 839,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6469,
+                "stars": 6470,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T11:06:52Z",
-                "open_issues": 142,
+                "last_commit": "2026-09-16T10:09:47Z",
+                "open_issues": 140,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1890,
+                "stars": 1891,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:52:38.845Z",
+    "last_updated": "2026-09-16T13:44:49.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 82,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1665,
+      "stars": 1664,
       "topics": [
         "awesome",
         "awesome-list",
