@@ -96,7 +96,7 @@
                 "open_issues": 57,
                 "owner": "liquity",
                 "repo": "dev",
-                "stars": 359,
+                "stars": 360,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -199,7 +199,7 @@
             "language": "Solidity",
             "license": "NOASSERTION",
             "last_commit": "2026-08-30T00:16:51Z",
-            "open_issues": 44,
+            "open_issues": 42,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
             "stars": 719,
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-23T13:39:18Z",
-                "open_issues": 835,
+                "last_commit": "2026-09-24T13:38:14Z",
+                "open_issues": 830,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6470,
+                "stars": 6473,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -325,10 +325,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T21:57:44Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3234,
+                "stars": 3235,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T10:25:31Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-24T10:53:05Z",
+                "open_issues": 137,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1896,
+                "stars": 1898,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:52:19.062Z",
+    "last_updated": "2026-09-24T13:48:06.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
