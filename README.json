@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-25T14:09:05Z",
-                "open_issues": 825,
+                "last_commit": "2026-09-25T22:29:33Z",
+                "open_issues": 832,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6472,
@@ -325,7 +325,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T23:32:27Z",
-                "open_issues": 148,
+                "open_issues": 149,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
                 "stars": 3236,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:10:55.358Z",
+    "last_updated": "2026-09-26T13:23:38.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
