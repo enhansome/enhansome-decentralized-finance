@@ -59,7 +59,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Fiat-Backed (Centralized)
 
-* [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm) ⭐ 801 | 🐛 131 | 🌐 TypeScript | 📅 2026-08-12, [docs](https://developers.circle.com/stablecoins/docs)) - $59B+ market cap, issued by Circle
+* [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm) ⭐ 801 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-12, [docs](https://developers.circle.com/stablecoins/docs)) - $59B+ market cap, issued by Circle
 * [Paxos Dollar (USDP)](https://paxos.com/usdp/) ([source code](https://github.com/paxosglobal/usdp-contracts) ⭐ 177 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-06) - Regulated by NYDFS
 * [Gemini Dollar (GUSD)](https://gemini.com/dollar) ([source code](https://github.com/gemini/dollar) ⭐ 106 | 🐛 1 | 🌐 Solidity | 📅 2023-11-30) - Issued by Gemini exchange
 * [Tether (USDT)](https://tether.to) ([docs](https://tether.to/en/transparency/)) - $144B+ market cap, most liquid stablecoin
@@ -76,7 +76,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ### Wrapped BTC
 
 * [WBTC](https://wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) ⭐ 150 | 🐛 46 | 🌐 JavaScript | 📅 2024-01-25) - Centralized custody, largest supply
-* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-30) - Decentralized Bitcoin bridge
+* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-01) - Decentralized Bitcoin bridge
 
 ### Historical Note
 
@@ -133,7 +133,7 @@ Auto-compound and optimize yields across multiple protocols.
 
 Use staked ETH to secure additional networks beyond Ethereum (earn extra yield but with added slashing risk).
 
-* [EigenLayer](https://eigenlayer.xyz) ([source code](https://github.com/Layr-Labs/eigenlayer-contracts) ⭐ 719 | 🐛 42 | 🌐 Solidity | 📅 2026-09-24, [docs](https://docs.eigenlayer.xyz/)) - $14.3B+ TVL, pioneered restaking concept. Secures "Actively Validated Services" (AVSs)
+* [EigenLayer](https://eigenlayer.xyz) ([source code](https://github.com/Layr-Labs/eigenlayer-contracts) ⭐ 719 | 🐛 42 | 🌐 Solidity | 📅 2026-10-01, [docs](https://docs.eigenlayer.xyz/)) - $14.3B+ TVL, pioneered restaking concept. Secures "Actively Validated Services" (AVSs)
 * [Symbiotic](https://symbiotic.fi) ([docs](https://docs.symbiotic.fi/)) - Flexible restaking with custom slashing conditions
 * [Karak](https://karak.network) ([docs](https://docs.karak.network/)) - Multi-asset restaking (not just ETH)
 * [Puffer Finance](https://puffer.fi) ([source code](https://github.com/PufferFinance), [docs](https://docs.puffer.fi/)) - Liquid restaking with anti-slashing tech
@@ -161,7 +161,7 @@ Use staked ETH to secure additional networks beyond Ethereum (earn extra yield b
 
 ### Prediction Markets
 
-* [Augur](https://augur.net) ([source code](https://github.com/AugurProject/augur) ⭐ 509 | 🐛 178 | 🌐 TypeScript | 📅 2023-07-23, [docs](https://docs.augur.net/)) - OG prediction market protocol
+* [Augur](https://augur.net) ([source code](https://github.com/AugurProject/augur) ⭐ 508 | 🐛 178 | 🌐 TypeScript | 📅 2023-07-23, [docs](https://docs.augur.net/)) - OG prediction market protocol
 * [Polymarket](https://polymarket.com) ([docs](https://docs.polymarket.com/)) - Largest prediction market, $2B+ in 2024 volume betting on real-world events
 * [Azuro](https://azuro.org) - Sports betting prediction market
 
@@ -173,13 +173,13 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,474 | 🐛 823 | 🌐 Go | 📅 2026-10-01, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,475 | 🐛 825 | 🌐 Go | 📅 2026-10-02, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
 ### ZK Rollups
 
-* [zkSync Era](https://zksync.io) ([source code](https://github.com/matter-labs/zksync-era) ⭐ 3,236 | 🐛 151 | 🌐 Rust | 📅 2026-09-24, [docs](https://docs.zksync.io/)) - Native account abstraction, low fees
+* [zkSync Era](https://zksync.io) ([source code](https://github.com/matter-labs/zksync-era) ⭐ 3,236 | 🐛 152 | 🌐 Rust | 📅 2026-09-24, [docs](https://docs.zksync.io/)) - Native account abstraction, low fees
 * [Starknet](https://starknet.io) ([source code](https://github.com/starkware-libs), [docs](https://docs.starknet.io/)) - Uses STARK proofs, Cairo programming language
 * [Polygon zkEVM](https://polygon.technology/polygon-zkevm) ([source code](https://github.com/0xPolygonHermez), [docs](https://docs.polygon.technology/zkEVM/)) - EVM-equivalent ZK rollup
 * [Scroll](https://scroll.io) ([source code](https://github.com/scroll-tech), [docs](https://docs.scroll.io/)) - Bytecode-compatible zkEVM
@@ -320,7 +320,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Other Awesome Lists
 
-If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 515 | 🐛 133 | 📅 2026-04-14.
+If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 516 | 🐛 136 | 📅 2026-04-14.
 
 ## License
 
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
