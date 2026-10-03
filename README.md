@@ -173,7 +173,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,475 | 🐛 825 | 🌐 Go | 📅 2026-10-02, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,476 | 🐛 831 | 🌐 Go | 📅 2026-10-02, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
@@ -320,7 +320,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Other Awesome Lists
 
-If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 516 | 🐛 136 | 📅 2026-04-14.
+If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 517 | 🐛 138 | 📅 2026-04-14.
 
 ## License
 
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
