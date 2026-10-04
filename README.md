@@ -59,7 +59,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Fiat-Backed (Centralized)
 
-* [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm) ⭐ 801 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-12, [docs](https://developers.circle.com/stablecoins/docs)) - $59B+ market cap, issued by Circle
+* [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm) ⭐ 802 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-12, [docs](https://developers.circle.com/stablecoins/docs)) - $59B+ market cap, issued by Circle
 * [Paxos Dollar (USDP)](https://paxos.com/usdp/) ([source code](https://github.com/paxosglobal/usdp-contracts) ⭐ 177 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-06) - Regulated by NYDFS
 * [Gemini Dollar (GUSD)](https://gemini.com/dollar) ([source code](https://github.com/gemini/dollar) ⭐ 106 | 🐛 1 | 🌐 Solidity | 📅 2023-11-30) - Issued by Gemini exchange
 * [Tether (USDT)](https://tether.to) ([docs](https://tether.to/en/transparency/)) - $144B+ market cap, most liquid stablecoin
@@ -173,7 +173,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,476 | 🐛 831 | 🌐 Go | 📅 2026-10-02, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,476 | 🐛 835 | 🌐 Go | 📅 2026-10-04, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
