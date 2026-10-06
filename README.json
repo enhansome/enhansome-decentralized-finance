@@ -63,7 +63,7 @@
                 "open_issues": 1,
                 "owner": "gemini",
                 "repo": "dollar",
-                "stars": 106,
+                "stars": 105,
                 "topics": [
                   "erc20",
                   "ethereum",
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:50:51Z",
-                "open_issues": 855,
+                "last_commit": "2026-10-06T15:24:47Z",
+                "open_issues": 858,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6475,
@@ -328,7 +328,7 @@
                 "open_issues": 152,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3232,
+                "stars": 3231,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:02:39.054Z",
+    "last_updated": "2026-10-06T15:28:38.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
