@@ -202,7 +202,7 @@
             "open_issues": 42,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
-            "stars": 719,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:20.325Z"
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-07T15:37:52Z",
-                "open_issues": 843,
+                "last_commit": "2026-10-08T15:48:36Z",
+                "open_issues": 845,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6477,
+                "stars": 6476,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -328,7 +328,7 @@
                 "open_issues": 152,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3232,
+                "stars": 3219,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T09:56:33Z",
-                "open_issues": 140,
+                "last_commit": "2026-10-08T08:27:28Z",
+                "open_issues": 141,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1907,
+                "stars": 1906,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:47:08.666Z",
+    "last_updated": "2026-10-08T15:52:23.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -420,7 +420,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-01-14T20:11:22Z",
-      "open_issues": 81,
+      "open_issues": 83,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
       "stars": 1666,
