@@ -76,7 +76,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ### Wrapped BTC
 
 * [WBTC](https://wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) ⭐ 150 | 🐛 46 | 🌐 JavaScript | 📅 2024-01-25) - Centralized custody, largest supply
-* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-01) - Decentralized Bitcoin bridge
+* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-14) - Decentralized Bitcoin bridge
 
 ### Historical Note
 
@@ -173,7 +173,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,474 | 🐛 862 | 🌐 Go | 📅 2026-10-13, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,475 | 🐛 893 | 🌐 Go | 📅 2026-10-14, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 77 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
@@ -212,7 +212,7 @@ On-chain fund management platforms.
 
 ### Wallets
 
-* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,911 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-13) - Desktop wallet with better multi-chain UX
+* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,912 | 🐛 151 | 🌐 TypeScript | 📅 2026-10-14) - Desktop wallet with better multi-chain UX
 * [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 * [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
 * [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
@@ -320,7 +320,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Other Awesome Lists
 
-If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 523 | 🐛 147 | 📅 2026-04-14.
+If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 524 | 🐛 149 | 📅 2026-04-14.
 
 ## License
 
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

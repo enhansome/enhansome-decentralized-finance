@@ -162,7 +162,7 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T18:07:28Z",
+                "last_commit": "2026-10-14T12:40:20Z",
                 "open_issues": 53,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T16:24:03Z",
-                "open_issues": 862,
+                "last_commit": "2026-10-14T13:58:42Z",
+                "open_issues": 893,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6474,
+                "stars": 6475,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T08:51:53Z",
-                "open_issues": 146,
+                "last_commit": "2026-10-14T10:53:47Z",
+                "open_issues": 151,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1911,
+                "stars": 1912,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:27:30.027Z",
+    "last_updated": "2026-10-14T14:03:34.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
