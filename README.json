@@ -60,7 +60,7 @@
                 "language": "Solidity",
                 "license": null,
                 "last_commit": "2023-11-30T14:53:54Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "gemini",
                 "repo": "dollar",
                 "stars": 106,
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-15T13:35:10Z",
-                "open_issues": 911,
+                "last_commit": "2026-10-16T13:02:36Z",
+                "open_issues": 904,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6478,
+                "stars": 6479,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -300,7 +300,7 @@
                 "open_issues": 0,
                 "owner": "OffchainLabs",
                 "repo": "arbitrum",
-                "stars": 77,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -385,8 +385,8 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T09:59:51Z",
-                "open_issues": 139,
+                "last_commit": "2026-10-16T10:30:00Z",
+                "open_issues": 140,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1913,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T13:42:23.653Z",
+    "last_updated": "2026-10-16T13:32:35.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -420,7 +420,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-01-14T20:11:22Z",
-      "open_issues": 82,
+      "open_issues": 81,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
       "stars": 1670,
