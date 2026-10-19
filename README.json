@@ -21,7 +21,7 @@
                 "open_issues": 132,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 808,
+                "stars": 807,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -198,8 +198,8 @@
             "id": 620004347,
             "language": "Solidity",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T01:13:52Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-19T11:04:58Z",
+            "open_issues": 41,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
             "stars": 721,
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-18T10:45:24Z",
-                "open_issues": 923,
+                "last_commit": "2026-10-19T15:04:15Z",
+                "open_issues": 929,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6480,
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T05:01:39Z",
-                "open_issues": 142,
+                "last_commit": "2026-10-19T03:22:22Z",
+                "open_issues": 144,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1913,
+                "stars": 1914,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:47:46.772Z",
+    "last_updated": "2026-10-19T15:52:43.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
