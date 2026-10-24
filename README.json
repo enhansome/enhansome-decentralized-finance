@@ -231,7 +231,7 @@
                 "open_issues": 178,
                 "owner": "AugurProject",
                 "repo": "augur",
-                "stars": 508,
+                "stars": 507,
                 "topics": [
                   "dapp",
                   "ethereum",
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-23T13:48:20Z",
-                "open_issues": 924,
+                "last_commit": "2026-10-24T06:03:38Z",
+                "open_issues": 929,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6481,
@@ -325,7 +325,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T23:32:27Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
                 "stars": 3224,
@@ -389,7 +389,7 @@
                 "open_issues": 142,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1915,
+                "stars": 1916,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:49:45.663Z",
+    "last_updated": "2026-10-24T12:56:03.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
