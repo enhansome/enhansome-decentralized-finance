@@ -21,7 +21,7 @@
                 "open_issues": 135,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 811,
+                "stars": 812,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -269,8 +269,8 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-02T18:50:15Z",
-                "open_issues": 930,
+                "last_commit": "2026-11-03T16:35:34Z",
+                "open_issues": 934,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
                 "stars": 6489,
@@ -328,7 +328,7 @@
                 "open_issues": 153,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3223,
+                "stars": 3222,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T13:16:15Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-03T10:25:41Z",
+                "open_issues": 159,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1921,
+                "stars": 1923,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:50:50.428Z",
+    "last_updated": "2026-11-03T16:36:22.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 86,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1674,
+      "stars": 1675,
       "topics": [
         "awesome",
         "awesome-list",
