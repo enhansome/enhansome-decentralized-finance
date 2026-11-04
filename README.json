@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-12T20:25:11Z",
-                "open_issues": 135,
+                "open_issues": 137,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
                 "stars": 812,
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-03T16:35:34Z",
+                "last_commit": "2026-11-04T16:34:10Z",
                 "open_issues": 934,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6489,
+                "stars": 6491,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -328,7 +328,7 @@
                 "open_issues": 153,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3222,
+                "stars": 3224,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T10:25:41Z",
-                "open_issues": 159,
+                "last_commit": "2026-11-04T13:20:53Z",
+                "open_issues": 165,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1923,
+                "stars": 1924,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:36:22.886Z",
+    "last_updated": "2026-11-04T16:36:13.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 86,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1675,
+      "stars": 1674,
       "topics": [
         "awesome",
         "awesome-list",
