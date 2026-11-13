@@ -173,7 +173,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,493 | 🐛 951 | 🌐 Go | 📅 2026-11-12, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,493 | 🐛 938 | 🌐 Go | 📅 2026-11-13, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 76 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
@@ -212,7 +212,7 @@ On-chain fund management platforms.
 
 ### Wallets
 
-* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,935 | 🐛 172 | 🌐 TypeScript | 📅 2026-11-12) - Desktop wallet with better multi-chain UX
+* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,935 | 🐛 151 | 🌐 TypeScript | 📅 2026-11-13) - Desktop wallet with better multi-chain UX
 * [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 * [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
 * [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
