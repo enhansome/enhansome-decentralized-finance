@@ -76,7 +76,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ### Wrapped BTC
 
 * [WBTC](https://wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) ⭐ 150 | 🐛 46 | 🌐 JavaScript | 📅 2024-01-25) - Centralized custody, largest supply
-* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-11) - Decentralized Bitcoin bridge
+* [tBTC](https://threshold.network/earn/btc) ([source code](https://github.com/keep-network/tbtc-v2) ⭐ 90 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-16) - Decentralized Bitcoin bridge
 
 ### Historical Note
 
@@ -133,7 +133,7 @@ Auto-compound and optimize yields across multiple protocols.
 
 Use staked ETH to secure additional networks beyond Ethereum (earn extra yield but with added slashing risk).
 
-* [EigenLayer](https://eigenlayer.xyz) ([source code](https://github.com/Layr-Labs/eigenlayer-contracts) ⭐ 721 | 🐛 43 | 🌐 Solidity | 📅 2026-11-05, [docs](https://docs.eigenlayer.xyz/)) - $14.3B+ TVL, pioneered restaking concept. Secures "Actively Validated Services" (AVSs)
+* [EigenLayer](https://eigenlayer.xyz) ([source code](https://github.com/Layr-Labs/eigenlayer-contracts) ⭐ 721 | 🐛 42 | 🌐 Solidity | 📅 2026-11-16, [docs](https://docs.eigenlayer.xyz/)) - $14.3B+ TVL, pioneered restaking concept. Secures "Actively Validated Services" (AVSs)
 * [Symbiotic](https://symbiotic.fi) ([docs](https://docs.symbiotic.fi/)) - Flexible restaking with custom slashing conditions
 * [Karak](https://karak.network) ([docs](https://docs.karak.network/)) - Multi-asset restaking (not just ETH)
 * [Puffer Finance](https://puffer.fi) ([source code](https://github.com/PufferFinance), [docs](https://docs.puffer.fi/)) - Liquid restaking with anti-slashing tech
@@ -173,7 +173,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 ### Optimistic Rollups
 
-* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,495 | 🐛 951 | 🌐 Go | 📅 2026-11-16, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
+* [Optimism](https://optimism.io) ([source code](https://github.com/ethereum-optimism/optimism) ⭐ 6,495 | 🐛 939 | 🌐 Go | 📅 2026-11-17, [docs](https://docs.optimism.io/)) - $843M TVL, created OP Stack used by Base and others (Superchain)
 * [Arbitrum](https://arbitrum.io) ([source code](https://github.com/OffchainLabs/arbitrum) ⭐ 76 | 🐛 0 | 📅 2025-07-02, [docs](https://docs.arbitrum.io/)) - $3.9B TVL, most DeFi activity (GMX, Uniswap, Aave, etc.)
 * [Base](https://base.org) ([docs](https://docs.base.org/)) - $4.3B TVL, 55% of L2 transaction volume. Built by Coinbase on OP Stack
 
@@ -194,7 +194,7 @@ Faster, cheaper transactions while inheriting Ethereum security.
 
 Tokenized portfolios/baskets of crypto assets.
 
-* [Set Protocol](https://www.setprotocol.com/) ([source code](https://github.com/SetProtocol/set-protocol-v2) ⭐ 133 | 🐛 31 | 🌐 TypeScript | 📅 2024-07-26, [docs](https://docs.tokensets.com/)) - Infrastructure for creating/managing tokenized portfolios
+* [Set Protocol](https://www.setprotocol.com/) ([source code](https://github.com/SetProtocol/set-protocol-v2) ⭐ 132 | 🐛 31 | 🌐 TypeScript | 📅 2024-07-26, [docs](https://docs.tokensets.com/)) - Infrastructure for creating/managing tokenized portfolios
 * [Index Coop](https://indexcoop.com) ([source code](https://github.com/IndexCoop), [docs](https://docs.indexcoop.com/)) - DeFi index products (DPI, MVI, ETH2x-FLI)
 
 <a name="fund-protocols" />
@@ -212,7 +212,7 @@ On-chain fund management platforms.
 
 ### Wallets
 
-* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,939 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-16) - Desktop wallet with better multi-chain UX
+* [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby) ⭐ 1,938 | 🐛 160 | 🌐 TypeScript | 📅 2026-11-17) - Desktop wallet with better multi-chain UX
 * [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
 * [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
 * [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
@@ -320,7 +320,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Other Awesome Lists
 
-If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 542 | 🐛 193 | 📅 2026-04-14.
+If you are interested in AI search, check out this [awesome generative engine optimization list](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 542 | 🐛 195 | 📅 2026-04-14.
 
 ## License
 
@@ -328,4 +328,4 @@ If you are interested in AI search, check out this [awesome generative engine op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
