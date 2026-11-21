@@ -202,7 +202,7 @@
             "open_issues": 42,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
-            "stars": 721,
+            "stars": 722,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:20.325Z"
@@ -231,7 +231,7 @@
                 "open_issues": 178,
                 "owner": "AugurProject",
                 "repo": "augur",
-                "stars": 507,
+                "stars": 509,
                 "topics": [
                   "dapp",
                   "ethereum",
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-20T15:47:47Z",
-                "open_issues": 916,
+                "last_commit": "2026-11-21T06:03:23Z",
+                "open_issues": 923,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6498,
+                "stars": 6496,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -389,7 +389,7 @@
                 "open_issues": 173,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1939,
+                "stars": 1940,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:18:25.262Z",
+    "last_updated": "2026-11-21T16:23:31.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
