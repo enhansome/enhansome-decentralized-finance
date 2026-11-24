@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 814,
+                "stars": 815,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -145,7 +145,7 @@
                 "open_issues": 46,
                 "owner": "WrappedBTC",
                 "repo": "bitcoin-token-smart-contracts",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -202,7 +202,7 @@
             "open_issues": 42,
             "owner": "Layr-Labs",
             "repo": "eigenlayer-contracts",
-            "stars": 722,
+            "stars": 721,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:20.325Z"
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-23T20:28:12Z",
-                "open_issues": 917,
+                "last_commit": "2026-11-24T19:40:55Z",
+                "open_issues": 908,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6497,
+                "stars": 6499,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -385,8 +385,8 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T13:01:06Z",
-                "open_issues": 179,
+                "last_commit": "2026-11-24T09:58:05Z",
+                "open_issues": 183,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
                 "stars": 1941,
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:35:14.344Z",
+    "last_updated": "2026-11-24T19:43:00.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
