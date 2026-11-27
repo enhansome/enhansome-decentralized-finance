@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "circlefin",
                 "repo": "stablecoin-evm",
-                "stars": 814,
+                "stars": 812,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -42,7 +42,7 @@
                 "open_issues": 2,
                 "owner": "paxosglobal",
                 "repo": "usdp-contracts",
-                "stars": 177,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:20.325Z"
@@ -162,8 +162,8 @@
                 "id": 373762612,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T02:27:01Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-27T10:10:04Z",
+                "open_issues": 61,
                 "owner": "threshold-network",
                 "repo": "tbtc-v2",
                 "stars": 90,
@@ -269,11 +269,11 @@
                 "id": 238797860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-26T17:28:45Z",
-                "open_issues": 902,
+                "last_commit": "2026-11-27T16:23:59Z",
+                "open_issues": 914,
                 "owner": "ethereum-optimism",
                 "repo": "optimism",
-                "stars": 6498,
+                "stars": 6499,
                 "topics": [
                   "ethereum",
                   "l2-scaling",
@@ -385,11 +385,11 @@
                 "id": 356248265,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T16:41:23Z",
-                "open_issues": 189,
+                "last_commit": "2026-11-27T15:57:39Z",
+                "open_issues": 163,
                 "owner": "RabbyHub",
                 "repo": "Rabby",
-                "stars": 1944,
+                "stars": 1943,
                 "topics": [
                   "blockchain",
                   "chrome-extension",
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:39:20.762Z",
+    "last_updated": "2026-11-27T18:27:43.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome decentralized finance projects",
@@ -423,7 +423,7 @@
       "open_issues": 90,
       "owner": "ong",
       "repo": "awesome-decentralized-finance",
-      "stars": 1674,
+      "stars": 1673,
       "topics": [
         "awesome",
         "awesome-list",
